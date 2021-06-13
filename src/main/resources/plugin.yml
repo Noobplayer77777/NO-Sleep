@@ -1,0 +1,6 @@
+name: NoBed
+version: ${project.version}
+main: me.noob.minecraft.nobed.NoBed
+api-version: 1.16
+authors: [ noobplayer77777 ]
+description: Minecraft but you cant sleep
